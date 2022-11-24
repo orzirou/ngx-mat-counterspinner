@@ -1,0 +1,11 @@
+<div class="ngx-mat-counterspinner__container">
+  <mat-spinner
+    [mode]="mode"
+    [color]="color"
+    [value]="value"
+    [diameter]="diameter"
+  ></mat-spinner>
+  <span *ngIf="_dispValue" class="counter" [matTooltip]="_tooltip || ''">{{
+    _dispValue
+  }}</span>
+</div>

@@ -1,0 +1,24 @@
+:host {
+  display: flex;
+
+  width: 100%;
+  height: 100%;
+}
+
+.ngx-mat-counterspinner__container {
+  position: relative;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin: auto;
+
+  .counter {
+    position: absolute;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
