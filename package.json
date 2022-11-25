@@ -1,6 +1,6 @@
 {
   "name": "ngx-mat-counterspinner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -44,5 +44,15 @@
   "volta": {
     "node": "16.10.0",
     "npm": "7.24.0"
-  }
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/orzirou/ngx-mat-counterspinner.git"
+  },
+  "keywords": [
+    "angular",
+    "material",
+    "components",
+    "typescript"
+  ]
 }
