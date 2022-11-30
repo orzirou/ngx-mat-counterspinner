@@ -6,7 +6,7 @@ import {
   Input,
 } from '@angular/core';
 import { ThemePalette } from '@angular/material/core';
-import { ProgressSpinnerMode } from '@angular/material/progress-spinner';
+import { LegacyProgressSpinnerMode as ProgressSpinnerMode } from '@angular/material/legacy-progress-spinner';
 import { isNil as _isNil } from 'lodash-es';
 
 import { CounterSpinnerDisplayMode } from './ngx-mat-counterspinner.enum';

@@ -2,8 +2,8 @@
   "name": "ngx-mat-counterspinner",
   "version": "1.0.0",
   "peerDependencies": {
-    "@angular/common": "^14.0.0",
-    "@angular/core": "^14.0.0",
+    "@angular/common": "^15.0.1",
+    "@angular/core": "^15.0.1",
     "@angular/material": "^14.0.0",
     "lodash-es": "^4.17.21"
   },
