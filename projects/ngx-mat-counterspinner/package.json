@@ -1,6 +1,6 @@
 {
   "name": "ngx-mat-counterspinner",
-  "version": "15.0.3",
+  "version": "15.0.4",
   "peerDependencies": {
     "@angular/common": "^15.0.1",
     "@angular/core": "^15.0.1",
@@ -9,5 +9,16 @@
   },
   "dependencies": {
     "tslib": "^2.3.0"
-  }
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/orzirou/ngx-mat-counterspinner.git"
+  },
+  "keywords": [
+    "angular",
+    "material",
+    "components",
+    "typescript"
+  ],
+  "license": "MIT"
 }
