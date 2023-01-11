@@ -1,6 +1,6 @@
 {
   "name": "ngx-mat-counterspinner",
-  "version": "14.0.1",
+  "version": "14.0.2",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -10,7 +10,8 @@
     "build:debug-app": "ng build debug-app --configuration development",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "release": "npm run build && npm publish ./dist/ngx-mat-counterspinner"
+    "release": "npm run build && npm publish ./dist/ngx-mat-counterspinner",
+    "verup": "npm version patch --no-git-tag-version --no-commit-hooks"
   },
   "dependencies": {
     "@angular/animations": "^14.0.0",
