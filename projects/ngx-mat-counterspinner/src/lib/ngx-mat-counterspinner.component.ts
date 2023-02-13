@@ -58,7 +58,6 @@ export class NgxMatCounterspinnerComponent implements OnInit, OnChanges {
       changes['display'] ||
       changes['unitWord']
     ) {
-      console.log(changes);
       if (_isNil(this.value) && _isNil(this.max)) {
         this._dispValue = this._tooltip = '';
       } else {
