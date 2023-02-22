@@ -1,6 +1,6 @@
 {
   "name": "ngx-mat-counterspinner",
-  "version": "15.0.5",
+  "version": "15.1.5",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
